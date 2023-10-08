@@ -1,0 +1,20 @@
+body{
+    background-color: gray;
+}
+.main {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: palegreen;
+}
+
+.main a{
+    font-family: 'JetBrains Mono', monospace;
+    text-decoration: none;
+}
+
+.main a:visited{
+    color: palegreen;
+    font-family: 'JetBrains Mono', monospace;
+}
