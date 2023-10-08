@@ -1,2 +1,2 @@
-# ricky
-hehe
+# https://saintramon.github.io/ricky/
+
